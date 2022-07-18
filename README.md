@@ -3,7 +3,7 @@
 
 ### 🖥️ Formado em análise e desenvolvimento de software ❤️.
 ### 🖥️ Estudando Node no curso Ignite da Rocketseat.
-### 🖥️ Estudando HTML,CSS no curso da Origamid.
+### 🖥️ Estudando HTML,CSS, JavaScript no curso da Origamid.
 
 ---
 ### Entre em contato:
