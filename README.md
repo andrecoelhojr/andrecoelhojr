@@ -4,6 +4,7 @@
 ### 🖥️ Formado em análise e desenvolvimento de software ❤️.
 ### 🖥️ Estudando Node no curso Ignite da Rocketseat.
 ### 🖥️ Estudando HTML,CSS, JavaScript no curso da Origamid.
+### 🖥️ Cursando Pós Graduação em Deselvolvimento Full Stack na PUCRS.
 
 ---
 ### Entre em contato:
